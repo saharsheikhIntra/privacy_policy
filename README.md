@@ -1,6 +1,6 @@
-# privacy_policy
+
 Privacy Policy
-Effective Date: [Insert Date]
+
 
 1. Introduction
 Welcome to oraaq.com. We are dedicated to protecting your privacy and ensuring your personal information is managed safely and responsibly. This Privacy Policy outlines how we collect, use, disclose, and protect your information when you use our listings and coupon service.
